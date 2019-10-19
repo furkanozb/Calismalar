@@ -1,0 +1,12 @@
+﻿@using MVC_Intermediate.Models
+@model List<Kategori>
+
+
+        <div class="list-group">
+
+
+            @foreach (var categori in Model)
+            {
+                <a href="#" class="list-group-item">@categori.KategoriAd</a>
+            }
+        </div>

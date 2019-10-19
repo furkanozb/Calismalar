@@ -1,0 +1,34 @@
+#yeniDIV
+{
+	width: 174px;
+	height: 447px;
+	background: url("3B Tarayıcı destekleri.jpg");
+	-webkit-animation:ortaklar 4s infinite;
+	-moz-animation:ortaklar 4s infinite;
+	-ms-animation:ortaklar 4s infinite;
+	 animation:ortaklar 4s infinite;
+}
+
+@-webkit-keyframes ortaklar
+{
+	0%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+	25%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+	50%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+	100%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+}
+
+@-moz-keyframes ortaklar
+{
+	0%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+	25%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+	50%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+	100%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+}
+
+@-ms-keyframes ortaklar
+{
+	0%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+	25%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+	50%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+	100%{background-image: url("Ek Açıklama 2019-06-09 195338.jpg");}
+}

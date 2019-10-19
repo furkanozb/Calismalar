@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+div 
+{
+	position: absolute;
+	border-radius: 50%;
+	width: 525px;
+	height: 112px; 
+	background-image:url(bilgeis.png);
+	-webkit-animation:ellipse 6s infinite;
+	-moz-animation:ellipse 6s infinite;
+	-ms-animation:ellipse 6s infinite;
+	animation:ellipse 6s infinite;
+}
+
+@-webkit-keyframes ellipse
+{
+	0% {left:0px;}
+	25% {left:400px;}
+	50% {left:100px;}
+	75% {left:200px;}
+	100% {left:50px;}
+}
+
+@-moz-keyframes ellipse
+{
+	0% {left:0px;}
+	25% {left:400px;}
+	50% {left:100px;}
+	75% {left:200px;}
+	100% {left:50px;}
+}
+
+@-ms-keyframes ellipse
+{
+	0% {left:0px;}
+	25% {left:400px;}
+	50% {left:100px;}
+	75% {left:200px;}
+	100% {left:50px;}
+}

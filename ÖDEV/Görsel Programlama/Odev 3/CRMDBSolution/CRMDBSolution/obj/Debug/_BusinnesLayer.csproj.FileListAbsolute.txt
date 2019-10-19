@@ -1,0 +1,12 @@
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\bin\Debug\CRMDBSolution.dll.config
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\bin\Debug\CRMDBSolution.dll
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\bin\Debug\CRMDBSolution.pdb
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\bin\Debug\EntityFramework.dll
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\bin\Debug\EntityFramework.xml
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\obj\Debug\_BusinnesLayer.csprojAssemblyReference.cache
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\obj\Debug\_BusinnesLayer.csproj.CoreCompileInputs.cache
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\obj\Debug\_BusinnesLayer.csproj.CopyComplete
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\obj\Debug\CRMDBSolution.dll
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\CRMDBSolution\obj\Debug\CRMDBSolution.pdb

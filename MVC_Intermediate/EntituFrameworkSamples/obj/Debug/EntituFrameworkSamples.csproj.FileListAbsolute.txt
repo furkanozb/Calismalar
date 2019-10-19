@@ -1,0 +1,10 @@
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntituFrameworkSamples\bin\Debug\EntituFrameworkSamples.exe.config
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntituFrameworkSamples\bin\Debug\EntituFrameworkSamples.exe
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntituFrameworkSamples\bin\Debug\EntituFrameworkSamples.pdb
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntituFrameworkSamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntituFrameworkSamples\bin\Debug\EntityFramework.dll
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntituFrameworkSamples\obj\Debug\EntituFrameworkSamples.csprojAssemblyReference.cache
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntituFrameworkSamples\obj\Debug\EntituFrameworkSamples.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntituFrameworkSamples\obj\Debug\EntituFrameworkSamples.csproj.CopyComplete
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntituFrameworkSamples\obj\Debug\EntituFrameworkSamples.exe
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntituFrameworkSamples\obj\Debug\EntituFrameworkSamples.pdb

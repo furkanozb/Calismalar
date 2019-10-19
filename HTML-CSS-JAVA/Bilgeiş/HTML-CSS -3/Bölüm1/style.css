@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+body{position:fixed;margin: 0 auto}
+ol
+{
+	border-left: 8px solid blue;
+	
+	background-color: #dadada;
+	font-size: 20px;
+	
+	list-style-type: disc;
+	list-style-position: outside;
+}
+.kucukresim
+{
+	margin: 10px;
+	border: 3px solid #dadada;
+	width: 200px;
+	float: left;
+}
+
+.kucukresim img
+{
+		width: 100%;
+}
+
+.kucukresim:hover
+{
+	border:3px solid red;
+}
+.aciklama
+{
+	text-align: center;
+	font-family: verdana;
+	font-size: 18px;
+}
+

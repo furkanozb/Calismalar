@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Cambria';
+    src: url('Fonts/Cambria.eot');
+    src: url('Fonts/Cambria.eot?#iefix') format('embedded-opentype'),
+        url('Fonts/Cambria.woff2') format('woff2'),
+        url('Fonts/Cambria.woff') format('woff'),
+        url('Fonts/Cambria.ttf') format('truetype'),
+        url('Fonts/Cambria.svg#Cambria') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

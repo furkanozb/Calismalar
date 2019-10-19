@@ -1,0 +1,20 @@
+﻿@model Asp.NetCoreMvc2.Introduction1.employeeListViewModel
+
+    @{
+    Layout = null;
+    }
+
+    <!doctype html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>MVC VİEWLER</title>
+    </head>
+    <body>
+        @foreach (var item in Model.Employees)
+        {
+            @item.FirtName<br/>
+        }
+    </body>
+</html>

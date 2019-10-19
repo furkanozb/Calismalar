@@ -1,0 +1,10 @@
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntityFrameworkSamples\bin\Debug\EntityFrameworkSamples.exe.config
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntityFrameworkSamples\bin\Debug\EntityFrameworkSamples.exe
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntityFrameworkSamples\bin\Debug\EntityFrameworkSamples.pdb
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntityFrameworkSamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntityFrameworkSamples\bin\Debug\EntityFramework.dll
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.csprojAssemblyReference.cache
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.csproj.CopyComplete
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.exe
+C:\Users\FURKAN\source\repos\MVC_Intermediate\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.pdb

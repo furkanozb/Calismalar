@@ -1,0 +1,14 @@
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\bin\Debug\CRMDBSolution.dll
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\bin\Debug\EntityFramework.dll
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\bin\Debug\CRMDBSolution.pdb
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\bin\Debug\CRMDBSolution.dll.config
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\bin\Debug\EntityFramework.xml
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\obj\Debug\ClassLibrary2.Form1.resources
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.GenerateResource.cache
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\MonsterAbra\Desktop\OKUL\Okul Projeler\CRMDB\CRMDBSolution\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

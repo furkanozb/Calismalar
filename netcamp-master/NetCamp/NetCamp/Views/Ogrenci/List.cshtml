@@ -1,0 +1,26 @@
+﻿@model List<NetCamp.Models.Entities.Ogrenci>
+@{
+    ViewData["Title"] = "Öğrenci Listesi";
+}
+
+<h1>Öğrenci Listesi <a class="btn btn-info float-right" asp-controller="Ogrenci" asp-action="Insert">Ekle</a></h1>
+
+<table>
+    <tr>
+        <td>Id</td>
+        <td>Ad Soyad</td>
+        <td>Yaş</td>
+        <td>İşlem</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Adi @item.Soyadi</td>
+            <td>@item.Yasi</td>
+            <td>
+                <a class="btn btn-info" asp-controller="Ogrenci" asp-action="Update" asp-route-ogrenciId="@item.Id">Güncelle</a>
+            </td>
+        </tr>
+    }
+</table>

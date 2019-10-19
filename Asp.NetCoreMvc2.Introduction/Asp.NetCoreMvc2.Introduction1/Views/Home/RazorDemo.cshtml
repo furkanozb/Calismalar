@@ -1,0 +1,96 @@
+﻿@model Asp.NetCoreMvc2.Introduction1.employeeListViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RazorDemo</title>
+</head>
+<body>
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+
+                <th>FirstName</th>
+                <th>LastName</th>
+                <th>CityId</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Employees)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.FirtName</td>
+                    <td>@item.LastName</td>
+                    <td>@item.CityId.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>@DateTime.Now</p>
+    @{ var Date = DateTime.Now - TimeSpan.FromDays(3);}
+    <p>3 days ago was @Date</p>
+
+    @{var number = 10;}
+    <p>@number</p>
+
+    @if (number < 10)
+    {
+        <p>Number is less than 10</p>
+    }
+    else if (number == 10)
+    {
+        <p>Number number 10</p>
+    }
+    else
+    {
+        <p>your number greater then 10</p>
+    }
+
+    @switch (number)
+    {
+        case 10:<p>Your Number is 10</p>break;
+        case 11: <p>Your Number is 10</p>break;
+        case 12: <p>Your Number is 10</p>break;
+
+        default:<p>I have no idea about the number</p>break;
+    }
+
+    FOR
+    @for (int i = 0; i < Model.Employees.Count; i++)
+    {
+        <br /><b>@Model.Employees[i].FirtName</b>
+    }
+
+    <br /><i>WHİLE</i>
+    @{ var counter = 0;}
+    @while (counter < Model.Employees.Count)
+    {
+        <br /><b>@Model.Employees[counter].FirtName</b>
+        counter++;
+    }
+
+    DO-WHİLE
+    @{ var counter2 = 0;}
+    @do
+    {
+        <br /><b>@Model.Employees[counter2].FirtName</b>
+        counter2++;
+    } while (counter2 < Model.Employees.Count);
+    @using (Html.BeginForm())
+    {
+        <input type="text" name="" id=""/>
+        <button type="submit" ></button>
+    }
+</body>
+</html>

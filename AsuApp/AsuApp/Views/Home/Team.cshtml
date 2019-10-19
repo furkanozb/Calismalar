@@ -1,0 +1,68 @@
+﻿@model IEnumerable<AsuApp.Models.UyeModel>
+
+@{
+    ViewBag.Title = "Team";
+}
+    <div class="container">
+        <div class="row">
+            <h2>Üyelerimiz</h2>
+        </div>
+        <div class="row">
+            <p>
+                @Html.ActionLink("Üye Ekle", "register", null, new { @class = "btn btn-success" })
+            </p>
+        </div>
+
+
+        <table class="table table-bordered table-striped table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th>
+                        Adı
+                    </th>
+                    <th>
+                        Soyadı
+                    </th>
+                    <th>
+                        Programı
+                    </th>
+                    <th>
+                        Güncel üye mi?
+                    </th>
+                    <th width="270"></th>
+                </tr>
+            </thead>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.branch)
+                    </td>
+                    <td>
+                        @if (item.Günceluyemi)
+                        {
+                            <label class="label label-success">Güncel üye</label>
+                        }
+                        else
+                        {
+                            <label class="label label-warning">Pasif Üye</label>
+                        }
+                    </td>
+                    <td>
+                        @Html.ActionLink("Düzenle", "Edit", new { id = item.Id }, new { @class = "btn btn-primary" })
+                        @Html.ActionLink("Detaylar", "Details", new { id = item.Id }, new { @class = "btn btn-info" })
+                        @Html.ActionLink("Sil", "VeriSil", new { id = item.Id }, new { @class = "btn btn-danger" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+        @Html.ActionLink("Excel İndir", "VerileriGoster", null, new { @class = "btn btn-primary data-toggle=button aria-pressed=false autocomplete=off" })
+    </div>

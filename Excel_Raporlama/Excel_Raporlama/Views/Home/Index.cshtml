@@ -1,0 +1,43 @@
+﻿@using Excel_Raporlama.Models
+@model IEnumerable<Hastane>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div class="container">
+    <table class="table table-bordered table-striped table-success">
+        <thead class="table-dark">
+            <tr>
+                <td><b>ID</b></td>
+                <td><b>Ad</b></td>
+                <td><b>Soyad</b></td>
+                <td><b>TC</b></td>
+                <td><b>Kaldığı Gün Sayısı</b></td>
+                <td><b>Tutar</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Hastane item in Model)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Ad</td>
+                    <td>@item.SoyAd</td>
+                    <td>@item.TC</td>
+                    <td>@((item.CikisTarihi - item.GirisTarihi).ToString("dd")) Gün</td>
+                    <td>@(int.Parse((item.CikisTarihi - item.GirisTarihi).ToString("dd")) * 150)</td>
+                    <td>
+                        @Html.ActionLink("Delete", "VeriSil",new {siraNo=item.ID }, new { @class = "btn btn-danger btn-sm" })
+                        @Html.ActionLink("Düzenle", "VeriDuzenle",new {siraNo=item.ID }, new { @class = "btn btn-warning btn-sm" })
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+    @Html.ActionLink("Excel İndir", "VerileriGoster", null, new { @class="btn btn-success"})
+    
+</div>

@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+div
+{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	background: yellowgreen;
+	position: relative;
+	-webkit-animation:circle 2s infinite;
+	-moz-animation:circle 2s infinite;
+	-ms-animation:circle 2s infinite;
+	animation:circle 2s infinite;
+
+}
+
+@-webkit-keyframes circle
+{
+	0% {top:0px;}
+	25% {top:200px;}
+	75% {top:50px;}
+	100% {top:100px;}
+
+}
+
+@-moz-keyframes circle
+{
+	0% {top:0px;}
+	25% {top:200px;}
+	75% {top:50px;}
+	100% {top:100px;}
+
+}
+
+@-ms-keyframes circle
+{
+	0% {top:0px;}
+	25% {top:200px;}
+	75% {top:50px;}
+	100% {top:100px;}
+
+}

@@ -1,0 +1,14 @@
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\bin\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.deps.json
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\bin\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.runtimeconfig.json
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\bin\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.runtimeconfig.dev.json
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\bin\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.dll
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\obj\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.csprojAssemblyReference.cache
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\obj\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\obj\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.RazorAssemblyInfo.cache
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\obj\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.RazorAssemblyInfo.cs
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\obj\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.AssemblyInfoInputs.cache
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\obj\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.AssemblyInfo.cs
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\obj\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.RazorTargetAssemblyInfo.cache
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\bin\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.pdb
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\obj\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.dll
+C:\Users\FURKAN\source\repos\Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction\obj\Debug\netcoreapp2.1\Asp.NetCoreMvc2.Introduction.pdb

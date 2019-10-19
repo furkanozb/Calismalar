@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\1- Introduction\1.1Console\280719_Con_Giris\280719_Con_Giris\obj\Debug\280719_Con_Giris.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\1- Introduction\1.1Console\280719_Con_Giris\280719_Con_Giris\obj\Debug\280719_Con_Giris.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\1- Introduction\1.1Console\280719_Con_Giris\280719_Con_Giris\bin\Debug\280719_Con_Giris.exe.config
+C:\Users\furka\source\repos\1- Introduction\1.1Console\280719_Con_Giris\280719_Con_Giris\bin\Debug\280719_Con_Giris.exe
+C:\Users\furka\source\repos\1- Introduction\1.1Console\280719_Con_Giris\280719_Con_Giris\bin\Debug\280719_Con_Giris.pdb
+C:\Users\furka\source\repos\1- Introduction\1.1Console\280719_Con_Giris\280719_Con_Giris\obj\Debug\280719_Con_Giris.exe
+C:\Users\furka\source\repos\1- Introduction\1.1Console\280719_Con_Giris\280719_Con_Giris\obj\Debug\280719_Con_Giris.pdb

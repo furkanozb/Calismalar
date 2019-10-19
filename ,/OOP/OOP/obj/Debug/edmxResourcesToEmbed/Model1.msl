@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CRMDBModelStoreContainer" CdmEntityContainer="CRMDBEntities">
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="CRMDBModel.Products">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="PName" ColumnName="PName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="stock" ColumnName="stock" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SP_Delete" FunctionName="CRMDBModel.Store.SP_Delete" />
+    <FunctionImportMapping FunctionImportName="SP_Insert" FunctionName="CRMDBModel.Store.SP_Insert" />
+    <FunctionImportMapping FunctionImportName="Sp_Select" FunctionName="CRMDBModel.Store.Sp_Select">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="CRMDBModel.Sp_Select_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="PName" ColumnName="PName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="stock" ColumnName="stock" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_Update" FunctionName="CRMDBModel.Store.SP_Update" />
+  </EntityContainerMapping>
+</Mapping>

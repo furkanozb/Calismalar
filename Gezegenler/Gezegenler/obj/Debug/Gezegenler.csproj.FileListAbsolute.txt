@@ -1,0 +1,6 @@
+c:\users\iau\documents\visual studio 2015\Projects\Gezegenler\Gezegenler\bin\Debug\Gezegenler.exe.config
+c:\users\iau\documents\visual studio 2015\Projects\Gezegenler\Gezegenler\bin\Debug\Gezegenler.exe
+c:\users\iau\documents\visual studio 2015\Projects\Gezegenler\Gezegenler\bin\Debug\Gezegenler.pdb
+c:\users\iau\documents\visual studio 2015\Projects\Gezegenler\Gezegenler\obj\Debug\Gezegenler.csprojResolveAssemblyReference.cache
+c:\users\iau\documents\visual studio 2015\Projects\Gezegenler\Gezegenler\obj\Debug\Gezegenler.exe
+c:\users\iau\documents\visual studio 2015\Projects\Gezegenler\Gezegenler\obj\Debug\Gezegenler.pdb

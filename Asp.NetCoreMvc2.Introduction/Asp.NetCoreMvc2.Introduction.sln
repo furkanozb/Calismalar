@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.NetCoreMvc2.Introduction", "Asp.NetCoreMvc2.Introduction\Asp.NetCoreMvc2.Introduction.csproj", "{67734F5A-04C5-4AE6-94FB-9A0F96876DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.NetCoreMvc2.Introduction1", "Asp.NetCoreMvc2.Introduction1\Asp.NetCoreMvc2.Introduction1.csproj", "{42BDD746-503D-4ED8-85BA-060911BCE0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67734F5A-04C5-4AE6-94FB-9A0F96876DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67734F5A-04C5-4AE6-94FB-9A0F96876DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67734F5A-04C5-4AE6-94FB-9A0F96876DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67734F5A-04C5-4AE6-94FB-9A0F96876DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BDD746-503D-4ED8-85BA-060911BCE0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BDD746-503D-4ED8-85BA-060911BCE0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BDD746-503D-4ED8-85BA-060911BCE0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BDD746-503D-4ED8-85BA-060911BCE0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7629BFF3-E1DA-4023-8161-2F0AF70EAD86}
+	EndGlobalSection
+EndGlobal

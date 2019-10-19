@@ -1,0 +1,137 @@
+@font-face {font-family: 'Sansita';
+src: url('sansita-blackitalic-webfont.eot');
+src: url('Fonts/Sansita/sansita.eot') format('embedded-opentype'),
+url('Fonts/Sansita/sansita.woff2') format('woff2'),
+url('Fonts/Sansita/sansita.woff') format('woff'),
+url('Fonts/Sansita/sansita.ttf') format('truetype'),
+url('sansita-blaFonts/Sansita/sansita.svg#sansitablack_italic')
+format('svg');font-weight: normal;font-style: normal;}
+
+@font-face {
+    font-family: 'Cambria';
+    src: url('Fonts/Cambria.eot');
+    src: url('Fonts/Cambria.eot?#iefix') format('embedded-opentype'),
+        url('Fonts/Cambria.woff2') format('woff2'),
+        url('Fonts/Cambria.woff') format('woff'),
+        url('Fonts/Cambria.ttf') format('truetype'),
+        url('Fonts/Cambria.svg#Cambria') format('svg');
+    font-weight: normal;font-style: normal;
+}
+
+body{margin:0px;}
+.ust{background-color:#EEE;width:100%;height:41px;z-index:-1;position:absolute}
+.container{width:1200px;height:120px;position:relative;margin:0 auto 0 auto;}
+.hizala img{width:15px;height:13px;}
+.hizala div{float:left;padding:5px}
+.hizala {float:right;color:#AAA;font-family:calibri}
+.welcome{width:100%;height:41px}
+
+.menu ul {padding:0}
+.menu ul li{list-style:none;margin:0}
+.menu ul li a{float: left; display: block; font-size: 14px; color: #1a1a1a; padding: 66px 0 0 0;text-decoration:none;margin-left:50px;width:85px;}
+.menu > ul > li:nth-child(1)  a{background:url(images/menu/menu1.png)center top no-repeat;}
+.menu > ul > li:nth-child(2)  a{background:url(images/menu/menu2.png)center top no-repeat;}
+.menu > ul > li:nth-child(3)  a{background:url(images/menu/menu3.png)center top no-repeat;}
+.menu > ul > li:nth-child(4)  a{background:url(images/menu/menu4.png)center top no-repeat;}
+.menu > ul > li:nth-child(5)  a{background:url(images/menu/menu5.png)center top no-repeat;}
+.logos{float:left;width:150px;height:auto;position:relative}
+.menu {position:relative;width:800px;height:20px;margin-left:255px;clear:none}
+
+.menu > ul > li:nth-child(1)  a:hover{background:url(images/menu/menu1h.png)center top no-repeat;}
+.menu > ul > li:nth-child(2)  a:hover{background:url(images/menu/menu2h.png)center top no-repeat;}
+.menu > ul > li:nth-child(3)  a:hover{background:url(images/menu/menu3h.png)center top no-repeat;}
+.menu > ul > li:nth-child(4)  a:hover{background:url(images/menu/menu4h.png)center top no-repeat;}
+.menu > ul > li:nth-child(5)  a:hover{background:url(images/menu/menu5h.png)center top no-repeat;}
+
+
+.ara-sepet ul{padding:0;margin:0;}
+.ara-sepet ul li {list-style:none;padding:0;float:left;margin-left:10px}
+.ara-sepet ul li a{float: left; display: block; font-size: 14px; color: #1a1a1a; padding: 46px 0 0 0;text-decoration:none;width:50px;}
+.ara-sepet > ul > li:nth-child(1)  a{background:url(images/webArama.png)center top no-repeat;}
+.ara-sepet > ul > li:nth-child(2)  a{background:url(images/Sepetim.png)center top no-repeat;}
+.ara-sepet{position:relative;width:auto;height:auto;clear:none;float:right;}
+
+.album{height:350px;width:100%;background-color:red;float: block; display: table;background:url(images/slider/s1.jpg);background-size:100%;}
+.desen{;width:100%;height:30px;background:url(images/slider/desen.png)center top no-repeat;}
+
+
+p.bir{font-family:Sansita;color:#f9b842;font-size:40px;}
+p.iki{font-family:"Cambria";color:#1a1a1a;}
+p.uc{font-family:"Impact";font-size:40px;color:8B0000}
+p.dort{font-family:"Cambria";color:#1a1a1a;font-size:18px;}
+
+.baslik {height:auto;width:auto;float: block; display: table;text-align:center;margin-right:auto;margin-left:auto;margin-top:30px;font-size:30px}
+.baslik p {padding-bottom:-50px;}
+.tabdesing{width:253px;height:37px;background:url(images/Tabdesign.png)center top no-repeat;background-size:100%;margin:0px auto}
+
+
+
+.onecikanlar{width:100%;height:930px;margin-top:20px;background-size:100%;center top no-repeat;background:url(images/homebg.jpg)}
+
+
+.Butonlar{position:relative;width:auto;margin-left:110px;clear:none;padding-top:30px}
+.menu ul {padding:0}
+._butonlar ul li{list-style:none;margin:0;}
+._butonlar ul li a{float: left; display: table;font-weight:400;font-size:14px;text-align:center;color: #1a1a1a;text-decoration:none;
+margin-left:50px;width:164px; padding:17px 0;background:url(images/tabhead.png) no-repeat}
+._butonlar ul li a p {padding-bottom:30px;}
+._butonlar ul li a:hover{background:url(images/tabhead.png) no-repeat -368px 0;}
+
+
+
+.urunler ul {padding:0}
+.urunler ul li{list-style:none;margin:0}
+.urunler ul li a{float: left; display: block; font-size: 14px; color: #1a1a1a; padding: 66px 0 0 0;text-decoration:none;background-color:#F5F5F5;width:275px;
+height:393px;border-radius:10px;margin-left:17px;border-color:#696969;border-style:solid;border-width:1px;}
+#p_urun1{background: url(images/urunler/danakavurma.jpg)center top no-repeat;background-size:100%;}
+#p_urun2{background: url(images/urunler/tulumpeyniri.jpg)center top no-repeat;background-size:100%;}
+#p_urun3{background: url(images/urunler/bal.jpg)center top no-repeat;background-size:100%;}
+#p_urun4{background: url(images/urunler/kasar.jpeg)center top no-repeat;background-size:100%;}
+
+.sepeteekle{background:url(images/mycartIcon.png)center top no-repeat;width:auto;height:52px;margin-bottom:80px;display:none;visibility:hidden}
+.urunler ul li a:hover{border:2px solid #f9b842;} 						/*urunlerin üzerine gelindiğinde cerceve rengini ve kalınlığını ayarlar*/
+.urunler ul li a:hover .sepeteekle{display:block;visibility:visible}  /*urunlerin üzerine gelindiğinde sepet gözükmesini sağlar*/
+
+.sliderfotograf{;width:230px;height:240px;margin-top:-30px;}
+
+
+.banner{float:left;display:table;width:100%;height:auto;padding-top:50px;padding-bottom:40px}
+.banner div{float:left;width:380px;height:380px;background-color:blue;margin-right:20px;}
+#banner1{background:url(images/banner/b1.jpg)center top no-repeat;background-size:100%;}
+#banner2{background:url(images/banner/b2.jpg)center top no-repeat;background-size:100%;}
+#banner3{background:url(images/banner/b3.jpg)center top no-repeat;background-size:100%;}
+
+
+.tabdesing{padding-bottom:40px}
+
+
+.vitrin{height:1100px;width:100%;padding-top:20px}
+.v_urun{float:left;width:280px;height:398px;border-radius:10px;background-color:#F5F5F5;border-color:#696969;border-style:solid;border-width:1px;
+margin-left:10px;margin-right:5px;margin-bottom:30px;display:block;text-align:center;font-size: 14px; color: #1a1a1a;padding-top:25px}
+.v_urun div{padding-top:15px}
+.vitrinfotograflar{center top no-repeat;background-size:100%;width:231px;height:230px}
+
+
+
+.vitrin .v_urun:hover{border:1px solid #f9b842;} 						/*urunlerin üzerine gelindiğinde cerceve rengini ve kalınlığını ayarlar*/
+.vitrin .v_urun:hover .sepeteekle{display:block;visibility:visible}  /*urunlerin üzerine gelindiğinde sepet gözükmesini sağlar*/
+.vitrin .v_urun img {position:relative;margin:-17px auto}
+
+.blok{float:left;display:table;width:100%;height:auto;padding-top:50px;padding-bottom:40px;margin-top:-120px}
+.blok div{float:left;width:380px;height:380px;background-color:blue;margin-right:20px;}
+#blok1{background:url(images/blok/blok1.jpg)center top no-repeat;background-size:100%;}
+#blok2{background:url(images/blok/blok2.jpg)center top no-repeat;background-size:100%;}
+#blok3{background:url(images/blok/blok3.jpg)center top no-repeat;background-size:100%;}
+
+
+.altbanner{float:left;display:block;width:1180px;height:111px;background:url(images/altbanner.png)center top no-repeat;background-size:100%;}
+
+
+
+
+.footer{float:left;display:block;width:100%;height:auto;background-color:#f5f5f5;}
+#bulten2{font-size:180px;margin-top:-110px}
+#_bultentxt{display:inline-block;color:#787878;border:none;width:579px;height:50px;padding:0 0 0 0;font-size:13px;text-align:left;text-indent:20px;
+background:url(images/Footer/bultentxt.png) no-repeat center center;font-weight:normal;border-radius:0;opacity:1;float:left;margin-right:15px}
+.altfooter{width:100%;height:100%;background-color:red;background:url(images/footer/footerBg.jpg)center top no-repeat;background-size:100%;position:absolute}
+

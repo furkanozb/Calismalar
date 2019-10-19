@@ -1,0 +1,10 @@
+C:\Users\MonsterAbra\source\repos\Morse\Morse\bin\Debug\Morse.exe.config
+C:\Users\MonsterAbra\source\repos\Morse\Morse\bin\Debug\Morse.exe
+C:\Users\MonsterAbra\source\repos\Morse\Morse\bin\Debug\Morse.pdb
+C:\Users\MonsterAbra\source\repos\Morse\Morse\obj\Debug\Morse.csprojAssemblyReference.cache
+C:\Users\MonsterAbra\source\repos\Morse\Morse\obj\Debug\Morse.Form1.resources
+C:\Users\MonsterAbra\source\repos\Morse\Morse\obj\Debug\Morse.Properties.Resources.resources
+C:\Users\MonsterAbra\source\repos\Morse\Morse\obj\Debug\Morse.csproj.GenerateResource.cache
+C:\Users\MonsterAbra\source\repos\Morse\Morse\obj\Debug\Morse.csproj.CoreCompileInputs.cache
+C:\Users\MonsterAbra\source\repos\Morse\Morse\obj\Debug\Morse.exe
+C:\Users\MonsterAbra\source\repos\Morse\Morse\obj\Debug\Morse.pdb
